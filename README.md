@@ -1,4 +1,5 @@
 # Energy-Consumption-Analysis
+Analysis of the energy consumption patterns in certain cities of USA.
 
 This project uses a dataset that contains data regarding the type of energy consumed i.e, Electrcity, Gas and Water in certain cities of USA. To dive more deep into learning about the usage patterns, each city is assumed to have 10 buildings and the energy consumption details can be obtained for each building separately.
 Power BI is used here to to comapre the energy usage patterns city wise or building wise as well calculated the total number of units consumed along with the total cost associated with it. 
