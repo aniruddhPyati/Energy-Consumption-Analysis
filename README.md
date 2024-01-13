@@ -5,6 +5,11 @@ Power BI is used here to to comapre the energy usage patterns city wise or build
 There are separate dashboards for electricity , water and gas usage visualziations. There are slicers used which can be used to select a particular time frame (in years) or the city that is to be observed.
 Based on the numerical data obtained, insights can be created to understand which city or building is consuming a high amount of what type of energy. Then , steps can be taken to target these areas and ensure that these areas reduce their energy consumption to sustainable levels. Also, based on results obtained from previous years , it can also be understood as to why there might be an increase in the energy consumption, then target this root cause and improve it.
 
+File Details:
+
+1. Energy Consumptions Dataset.xlsx - This file contains the data regarding electricity, gas and water consumption across cities in the US in an excel sheet.
+2. energy_consumption.pbit - This is the Power BI dashboard.
+
 Preview:
 
 ![image](https://github.com/aniruddhPyati/Energy-Consumption-Analysis/assets/90457264/93557c41-7d37-4319-93a3-5cbe14c0b608)
